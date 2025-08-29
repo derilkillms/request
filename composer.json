@@ -1,0 +1,21 @@
+{
+  "name": "derilkillms/request",
+  "description": "Simple secure request wrapper for PHP",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Derilkillms\\Http\\": "src/"
+    }
+  },
+   "authors": [
+        {
+            "name": "Muhammad Deril",
+            "email": "derilkillms@gmail.com"
+        }
+    ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4"
+  }
+}
