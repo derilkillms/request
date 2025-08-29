@@ -1,4 +1,11 @@
 <?php
+/**
+ * Author   : Muhammad Deril
+ * URI      : http://www.derillab.com
+ * Github   : @derilkillms
+ */
+
+
 namespace Derilkillms\Http;
 
 class Request
